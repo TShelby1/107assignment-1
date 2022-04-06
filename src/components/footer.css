@@ -1,0 +1,18 @@
+/* good to put global styling in the app.css or the main css folder */
+.footer{
+    border:1px solid blue;
+
+}
+
+.footer h2{
+    text-align: center;
+    color: salmon;
+    margin: 5px 0;
+    
+}
+
+.footer h5{
+    text-align: center;
+    color: salmon;
+    margin: 5px 0;
+}

@@ -1,0 +1,10 @@
+/* good to put global styling in the app.css or the main css folder */
+.navbar{
+    border:1px solid red;
+
+}
+
+.navbar h1{
+    text-align: center;
+    color: teal;
+}

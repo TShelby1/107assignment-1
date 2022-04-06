@@ -1,0 +1,17 @@
+.product{
+    border:1px solid green;
+    margin-bottom: 10px;
+    width:300px; /*convert to rem */
+    height:350px;
+    margin-right:10px;
+
+}
+
+.product h3{
+    text-align:center;
+    color: black;
+}
+.product h1{
+    text-align:left;
+    color: black;
+}
